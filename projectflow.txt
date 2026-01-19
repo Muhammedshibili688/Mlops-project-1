@@ -1,0 +1,18 @@
+create a template file "template.py" and run it
+write code on setup.py and projcet.toml file to import local packages
+create venv and install required dpendencies from requirments.txt
+check pip list
+
+signup to mongodb Atlas an d inside tat create a project name and all.
+create a cluster inside project, choosing M0 and keep all other as default then deploy
+setup a user and password for a DB user
+go to network access then add ip address 0.0.0.0 so that we can access it from any where
+go back to the project -> get connection string -> drivers -> drivers = python 3.6 or above
+copy and save the connection sting with u replace password -> done
+create a folder notebooks create file mongodb-demo.ipyb 
+data set added to notebook folder create a file mongoDB_demo.ipynb set an kernel vehicle
+
+write the logger file and test it in demo.py
+write the exception file and test it in demo.py
+EDA and feature engineering notebook added
+
