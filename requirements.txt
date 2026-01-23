@@ -11,7 +11,7 @@ from_root
 certifi
 pyYAML
 boto3
-mypy-boto3-s3
+mypy_boto3_s3
 botocore
 fastapi
 python-multipart
